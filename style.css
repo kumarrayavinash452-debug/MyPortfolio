@@ -1,0 +1,128 @@
+*{
+
+margin: 0;
+padding: 0;
+
+
+
+
+}
+body{
+font-family:'poppins' , sans-serif;
+
+
+
+
+
+}
+.main{
+height:90vh;
+width:95vw;
+background-color:white;
+margin-top:20px;
+
+
+
+
+
+
+
+
+
+}
+.top{
+height:12vh;
+
+border-bottom:2px solid rgb(239, 231, 231);
+box-shadow: 0 8px 6px rgba(169, 166, 166, 0.3);
+
+
+
+
+
+}
+.navbar{
+display:flex;
+list-style:none;
+gap:35px;
+float:right;
+
+
+
+
+
+}
+.navbar li a{
+text-decoration:none;
+color:black;
+font-family: sans-serif;
+font-size: medium;
+
+
+
+}
+
+.f{
+color:aqua;
+
+
+}
+.sec{
+color:#fb5607;
+
+
+}
+.container{
+border:2px solid red;
+border:none;
+border-radius:10px;
+height:45vh;
+width:28vw;
+float:right;
+margin-top:20px;
+background-image:url("port image.jpeg");
+background-size:cover;
+
+
+}
+
+ ul li .active{
+
+    text-decoration: underline;
+    text-decoration-color: red;
+    text-decoration-style:solid;
+}
+.bottom{
+display:flex;
+
+justify-content: space-between;
+flex-wrap:nowrap;
+}
+.text{
+width:70%;
+margin-left:15px;
+margin-top:10px;
+line-height:1.5;
+color:#555;
+}
+.hello h2{
+
+    color:rgb(107, 86, 86);
+    margin-top:10px;
+    margin-left:5px;
+   
+}
+.hello h2 {
+  font-size: 28px;
+  font-weight: 600;
+color: #0072ff;
+
+ 
+}
+.email{
+margin-top:-90px;
+margin-left:20px;
+
+
+
+}
